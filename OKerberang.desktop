@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=OKerberang
+Comment=Kerberos AS-REP/Kerberoast analyzer (offline; hashcat 18200/13100/19700)
+Exec=OKerberang
+Icon=/usr/share/icons/Owl.png
+Terminal=true
+Categories=OAttack;
+Keywords=OKerberang;owlsec;security;kerberos;kerberoast;asrep;
